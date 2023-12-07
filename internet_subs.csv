@@ -1,0 +1,155 @@
+group;age;treatment_adherence;group_dicho;treatment_adherence_cat;education;labor_market_attachment;civil;sex;hrqol_12mdr;hrqol_baseline;qaly_gain;qaly_gain_dicho
+Control;36;100;Depression;above 90%;below 3 years of further education;Not working;Cohabiting/Single;Female;.78657913;-.14372453;.46515185;QALY gain
+Control;23;75;Depression;75%-90%;Above 3 years of further education;Not working;Divorsed/single;Male;.93450105;.26446351;.33501875;QALY gain
+Internet solution;54;100;Depression;above 90%;Above 3 years of further education;Working;Cohabiting/Single;Female;.96730477;.90425783;.031523466;QALY gain
+Internet solution;24;75;Depression;75%-90%;below 3 years of further education;;Cohabiting/Single;Female;.62452352;.47924933;.072637096;QALY gain
+Internet solution;44;91.666664;Depression;above 90%;Above 3 years of further education;Working;Cohabiting/Single;Female;.7762931;.9435398;-.08362335;QALY loss
+Control;47;58.333332;Depression;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.86165291;1;-.069173545;QALY loss
+Control;25;100;Depression;above 90%;below 3 years of further education;Not working;Divorsed/single;Male;.57224715;.59709275;-.0124228;QALY loss
+Control;46;66.666664;Depression;below 75%;Above 3 years of further education;Working;Cohabiting/Single;Female;.89677769;.58637267;.15520251;QALY gain
+Control;23;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Male;.78125006;.30223146;.2395093;QALY gain
+Internet solution;35;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Male;.88542962;.6249938;.13021791;QALY gain
+Control;19;0;Depression;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.87638426;.061807871;QALY gain
+Internet solution;26;83.333336;Depression;75%-90%;Above 3 years of further education;Not working;Cohabiting/Single;Male;.63059747;.57150435;.029546559;QALY gain
+Internet solution;45;91.666664;Depression;above 90%;below 3 years of further education;Not working;Cohabiting/Single;Female;.261078;.38681024;-.062866122;QALY loss
+Internet solution;29;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.72726482;.13636759;QALY gain
+Control;57;100;Depression;above 90%;Above 3 years of further education;Working;Divorsed/single;Female;.98039031;-.023381097;.50188571;QALY gain
+Control;30;25;Depression;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.98952824;.47955492;.25498664;QALY gain
+Control;30;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.64526665;.51860756;.063329548;QALY gain
+Control;28;75;Depression;75%-90%;below 3 years of further education;Not working;Divorsed/single;Female;.90581256;.75587028;.074971139;QALY gain
+Internet solution;30;75;Depression;75%-90%;Above 3 years of further education;Not working;Divorsed/single;Male;1;.73768073;.13115963;QALY gain
+Internet solution;33;41.666668;Depression;below 75%;below 3 years of further education;Not working;Divorsed/single;Female;1;.27519596;.36240202;QALY gain
+Internet solution;27;83.333336;Depression;75%-90%;below 3 years of further education;Not working;Divorsed/single;Female;.93925726;.51635182;.21145272;QALY gain
+Control;;83.333336;Depression;75%-90%;;;;;.62369937;1;-.18815032;QALY loss
+Internet solution;23;100;Depression;above 90%;below 3 years of further education;Working;Divorsed/single;Male;.79812914;.51670462;.14071226;QALY gain
+Control;31;41.666668;Depression;below 75%;below 3 years of further education;Not working;Cohabiting/Single;Female;1;.19867212;.40066394;QALY gain
+Internet solution;41;66.666664;Depression;below 75%;below 3 years of further education;Not working;Divorsed/single;Female;1;1;0;QALY loss
+Internet solution;25;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Female;.81239396;.71407908;.049157441;QALY gain
+Internet solution;68;16.666666;Depression;below 75%;Above 3 years of further education;Working;Divorsed/single;Male;.7903502;.50756663;.14139178;QALY gain
+Internet solution;17;91.666664;Depression;above 90%;below 3 years of further education;;Cohabiting/Single;Female;.45672384;.50438637;-.023831263;QALY loss
+Control;24;100;Depression;above 90%;Above 3 years of further education;Working;Cohabiting/Single;Female;.85846996;.76360267;.047433645;QALY gain
+Control;39;58.333332;Depression;below 75%;below 3 years of further education;Working;Cohabiting/Single;Male;.8786189;.62862331;.12499779;QALY gain
+Internet solution;86;100;Depression;above 90%;Above 3 years of further education;;Divorsed/single;Female;1;.93234587;.033827066;QALY gain
+Control;29;75;Depression;75%-90%;Above 3 years of further education;Working;Cohabiting/Single;Female;1;.27531114;.36234444;QALY gain
+Control;23;66.666664;Depression;below 75%;below 3 years of further education;Not working;Divorsed/single;Female;1;.70758492;.14620754;QALY gain
+Control;41;100;Depression;above 90%;Above 3 years of further education;Working;Cohabiting/Single;Female;1;1;0;QALY loss
+Control;61;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.75169367;.44257584;.15455891;QALY gain
+Internet solution;49;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Male;.63764018;.78919184;-.075775832;QALY loss
+Control;21;0;Depression;below 75%;below 3 years of further education;Working;Divorsed/single;Female;1;.62684667;.18657666;QALY gain
+Internet solution;24;0;Depression;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;1;.33505598;.33247203;QALY gain
+Internet solution;43;25;Depression;below 75%;below 3 years of further education;Working;Divorsed/single;Female;1;.23342855;.38328573;QALY gain
+Control;45;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Female;.92296416;.24425375;.3393552;QALY gain
+Control;61;100;Depression;above 90%;below 3 years of further education;Not working;Divorsed/single;Female;1;.55563623;.22218189;QALY gain
+Internet solution;28;100;Depression;above 90%;below 3 years of further education;Not working;Divorsed/single;Female;1;.57084805;.21457598;QALY gain
+Internet solution;22;50;Depression;below 75%;below 3 years of further education;Not working;Cohabiting/Single;Female;.98239034;.89167851;.045355916;QALY gain
+Internet solution;19;91.666664;Depression;above 90%;below 3 years of further education;Not working;Divorsed/single;Female;.91741896;.80813026;.054644346;QALY gain
+Control;53;100;Depression;above 90%;Above 3 years of further education;Working;Cohabiting/Single;Female;.67624849;.38651985;.14486432;QALY gain
+Control;45;100;Depression;above 90%;below 3 years of further education;Not working;Divorsed/single;Female;.95051968;.84981787;.050350904;QALY gain
+Control;29;100;Depression;above 90%;Above 3 years of further education;Working;Divorsed/single;Female;.80543035;.61510473;.095162809;QALY gain
+Control;21;100;Depression;above 90%;Above 3 years of further education;Working;Divorsed/single;Female;.95813227;.35742813;.30035207;QALY gain
+Control;47;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Female;.69234753;.65055686;.020895332;QALY gain
+Internet solution;30;41.666668;Depression;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;.99171215;.65369964;.16900626;QALY gain
+Internet solution;23;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Male;.59443301;1;-.2027835;QALY loss
+Control;62;58.333332;Depression;below 75%;Above 3 years of further education;Working;Cohabiting/Single;Male;1;.9016363;.049181849;QALY gain
+Internet solution;38;33.333332;Depression;below 75%;Above 3 years of further education;Working;Divorsed/single;Female;1;.41175237;.29412383;QALY gain
+Internet solution;28;91.666664;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.45232967;.24217166;.105079;QALY gain
+Control;32;58.333332;Depression;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.4263106;.2868447;QALY gain
+Internet solution;67;83.333336;Depression;75%-90%;Above 3 years of further education;Not working;Cohabiting/Single;Male;1;.67444229;.16277885;QALY gain
+Control;50;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Male;.82438326;.53233916;.14602205;QALY gain
+Control;23;100;Depression;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.82263589;.23927714;.29167938;QALY gain
+Internet solution;21;100;Depression;above 90%;Above 3 years of further education;Working;Cohabiting/Single;Female;1;.35849899;.3207505;QALY gain
+Control;24;66.666664;Depression;below 75%;Above 3 years of further education;Working;Divorsed/single;Female;1;.59025633;.20487183;QALY gain
+Control;66;91.666664;Depression;above 90%;below 3 years of further education;Working;Cohabiting/Single;Male;1;.41086552;.29456723;QALY gain
+Internet solution;21;58.333332;Depression;below 75%;Above 3 years of further education;Working;Divorsed/single;Female;1;.8855719;.057214051;QALY gain
+Control;17;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Female;.74205273;.65434855;.043852091;QALY gain
+Internet solution;54;91.666664;Depression;above 90%;below 3 years of further education;Working;Divorsed/single;Female;.95947576;.87480175;.042337;QALY gain
+Internet solution;53;100;Depression;above 90%;below 3 years of further education;Not working;Cohabiting/Single;Male;.79405671;.59963012;.097213298;QALY gain
+Internet solution;60;83.333336;Depression;75%-90%;Above 3 years of further education;Not working;Divorsed/single;Female;1;.63246763;.18376619;QALY gain
+Internet solution;42;100;Depression;above 90%;below 3 years of further education;Not working;Cohabiting/Single;Male;.12313491;.62637651;-.2516208;QALY loss
+Internet solution;15;75;Depression;75%-90%;below 3 years of further education;Working;Divorsed/single;Male;1;.59439051;.20280474;QALY gain
+Control;29;100;Depression;above 90%;below 3 years of further education;Not working;Divorsed/single;Female;.8534494;.81724507;.018102169;QALY gain
+Internet solution;20;58.333332;Depression;below 75%;below 3 years of further education;Working;Divorsed/single;Male;1;.859496;.070252001;QALY gain
+Control;26;100;Depression;above 90%;Above 3 years of further education;Not working;Divorsed/single;Female;.32794043;-.03810332;.18302187;QALY gain
+Internet solution;23;83.333336;Depression;75%-90%;Above 3 years of further education;Working;;Male;1;.73471379;.1326431;QALY gain
+Control;20;100;Depression;above 90%;Above 3 years of further education;;Cohabiting/Single;Female;.715904;.44678324;.13456038;QALY gain
+Internet solution;25;50;Depression;below 75%;Above 3 years of further education;Working;Cohabiting/Single;Male;1;.61173856;.19413072;QALY gain
+Control;24;100;Depression;above 90%;Above 3 years of further education;Working;Divorsed/single;Female;1;.85691637;.071541816;QALY gain
+Internet solution;16;0;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.81386882;1;-.09306559;QALY loss
+Control;28;0;Borderline;below 75%;below 3 years of further education;Not working;;Female;1;.28505456;.35747272;QALY gain
+Control;20;0;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.54053342;.72309965;-.091283113;QALY loss
+Internet solution;24;0;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.3406502;.75324804;-.20629892;QALY loss
+Control;20;0;Borderline;below 75%;below 3 years of further education;;;Female;1;.78037232;.10981384;QALY gain
+Control;29;0;Borderline;below 75%;below 3 years of further education;Working;Cohabiting/Single;Male;1;.6706062;.1646969;QALY gain
+Control;19;0;Borderline;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;1;.80784106;.096079469;QALY gain
+Control;32;0;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.017049406;.49147528;QALY gain
+Control;43;0;Borderline;below 75%;below 3 years of further education;Working;;Female;1;.21758176;.39120913;QALY gain
+Internet solution;20;97.14286;Borderline;above 90%;Above 3 years of further education;Not working;;Female;.96656537;.89053565;.038014859;QALY gain
+Control;18;75;Borderline;75%-90%;Above 3 years of further education;Not working;;Female;.38588634;.44286695;-.028490305;QALY loss
+Control;23;33.333332;Borderline;below 75%;below 3 years of further education;Working;Cohabiting/Single;;.962255;.53423744;.21400878;QALY gain
+Internet solution;24;54.054054;Borderline;below 75%;Above 3 years of further education;Not working;;Female;1;.41622809;.29188597;QALY gain
+Internet solution;30;54.761906;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;-.37776136;-.049058374;-.16435149;QALY loss
+Internet solution;22;77.647057;Borderline;75%-90%;Above 3 years of further education;Not working;Divorsed/single;Female;1;.21944404;.39027798;QALY gain
+Internet solution;55;93.103447;Borderline;above 90%;below 3 years of further education;Not working;Cohabiting/Single;Female;-.23407631;-.33074704;.048335366;QALY gain
+Internet solution;25;95.505615;Borderline;above 90%;Above 3 years of further education;Not working;;Female;.28506669;.49152339;-.10322835;QALY loss
+Control;52;82.41758;Borderline;75%-90%;Above 3 years of further education;Not working;;Female;1;.1977172;.40114141;QALY gain
+Internet solution;33;24.528301;Borderline;below 75%;Above 3 years of further education;Working;Cohabiting/Single;Female;1;1;0;QALY loss
+Internet solution;27;63.392857;Borderline;below 75%;;Not working;Divorsed/single;Female;.66366178;.8217997;-.079068959;QALY loss
+Internet solution;28;54.887218;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Male;.86627829;.1748575;.3457104;QALY gain
+Control;50;55.639099;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.89503473;.052482635;QALY gain
+Control;29;0;Borderline;below 75%;below 3 years of further education;Not working;;Female;.80275297;.7334165;.034668237;QALY gain
+Internet solution;36;42.857143;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.82917106;.64892769;.090121686;QALY gain
+Internet solution;45;48.905109;Borderline;below 75%;;Not working;Cohabiting/Single;Female;1;.84280616;.07859692;QALY gain
+Control;17;57.142857;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.8740924;.22214308;.32597464;QALY gain
+Internet solution;20;79.166664;Borderline;75%-90%;Above 3 years of further education;Not working;Divorsed/single;Female;1;.54950446;.22524777;QALY gain
+Control;24;62.111801;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.91511166;.67043591;.12233788;QALY gain
+Control;38;83.333336;Borderline;75%-90%;;Not working;;Female;.82061893;.45507088;.18277402;QALY gain
+Control;21;0;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.78320521;.68222499;.050490111;QALY gain
+Control;28;76.92308;Borderline;75%-90%;below 3 years of further education;Not working;Divorsed/single;Female;1;.78492075;.10753962;QALY gain
+Control;20;0;Borderline;below 75%;Above 3 years of further education;Working;;Female;.71326566;.61216253;.050551564;QALY gain
+Control;35;91.32653;Borderline;above 90%;Above 3 years of further education;Not working;;Female;.28174967;.24333197;.019208848;QALY gain
+Control;25;63.546799;Borderline;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;.70787811;.36629459;.17079176;QALY gain
+Control;37;68.571426;Borderline;below 75%;below 3 years of further education;Not working;;Female;.72654575;.11964434;.3034507;QALY gain
+Internet solution;23;94.392525;Borderline;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.63933843;.18033078;QALY gain
+Internet solution;40;56.944443;Borderline;below 75%;Above 3 years of further education;Working;Cohabiting/Single;;1;.82847279;.085763603;QALY gain
+Control;24;14.285714;Borderline;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;.87530184;.78659517;.044353336;QALY gain
+Internet solution;31;99.572647;Borderline;above 90%;;Not working;;Female;.5138979;-.14007759;.32698774;QALY gain
+Internet solution;19;53.361343;Borderline;below 75%;below 3 years of further education;Working;Cohabiting/Single;Female;.92804527;.96382409;-.01788941;QALY loss
+Control;31;81.93277;Borderline;75%-90%;;Not working;Cohabiting/Single;Female;1;.89977616;.05011192;QALY gain
+Control;20;89.07563;Borderline;75%-90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.63088679;-.16546716;.39817697;QALY gain
+Control;36;87.912086;Borderline;75%-90%;;Not working;;Female;.73751593;.81161052;-.037047297;QALY loss
+Control;22;43.57143;Borderline;below 75%;below 3 years of further education;Not working;Cohabiting/Single;Female;.66628677;.41854957;.1238686;QALY gain
+Internet solution;24;50;Borderline;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;.89457935;.2565935;.31899291;QALY gain
+Internet solution;31;17.91531;Borderline;below 75%;;Not working;Cohabiting/Single;Female;.43011209;.37687969;.026616201;QALY gain
+Control;24;80.519478;Borderline;75%-90%;below 3 years of further education;Not working;;Female;.94511157;-.1918634;.56848747;QALY gain
+Internet solution;40;45.741325;Borderline;below 75%;below 3 years of further education;Not working;Cohabiting/Single;Female;.90165532;.66079259;.12043136;QALY gain
+Control;53;55.6231;Borderline;below 75%;below 3 years of further education;Working;;Female;.97918278;.67291701;.15313289;QALY gain
+Control;25;68.389061;Borderline;below 75%;below 3 years of further education;Not working;Cohabiting/Single;Female;.64287454;.93479234;-.1459589;QALY loss
+Control;33;70.845482;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;1;.64223635;.17888182;QALY gain
+Internet solution;31;15.451895;Borderline;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;.92030895;.40058705;.25986093;QALY gain
+Internet solution;17;18.023256;Borderline;below 75%;Above 3 years of further education;Not working;;;.44463319;.69783539;-.1266011;QALY loss
+Control;20;96.85714;Borderline;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.94995093;.81798249;.065984219;QALY gain
+Control;37;78.15126;Borderline;75%-90%;below 3 years of further education;Not working;Cohabiting/Single;Female;.34517512;.54698396;-.10090442;QALY loss
+Internet solution;23;61.983471;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.15478356;.34524515;-.095230795;QALY loss
+Internet solution;23;64.285713;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.37439409;-.16173154;.26806283;QALY gain
+Internet solution;50;100;Borderline;above 90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.57809579;.55095327;.013571262;QALY gain
+Control;17;99.175827;Borderline;above 90%;Above 3 years of further education;Not working;;Female;.37147158;.52886504;-.078696728;QALY loss
+Internet solution;22;98.07692;Borderline;above 90%;Above 3 years of further education;Not working;;Female;.044506304;.62357646;-.28953508;QALY loss
+Internet solution;47;87.63736;Borderline;75%-90%;;Not working;;Female;.79430985;.61557287;.089368492;QALY gain
+Internet solution;36;80.494507;Borderline;75%-90%;;Not working;Cohabiting/Single;Female;.90806359;-.26815408;.58810884;QALY gain
+Internet solution;22;57.142857;Borderline;below 75%;Above 3 years of further education;Working;;Female;.76747727;.30673295;.23037216;QALY gain
+Internet solution;48;94.230766;Borderline;above 90%;below 3 years of further education;Not working;Cohabiting/Single;Female;.30975783;-.062214654;.18598624;QALY gain
+Internet solution;18;65.65934;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.80353421;.85718513;-.026825458;QALY loss
+Internet solution;25;95.87912;Borderline;above 90%;Above 3 years of further education;Not working;Divorsed/single;Female;.73861945;.74757457;-.0044775605;QALY loss
+Control;21;41.20879;Borderline;below 75%;below 3 years of further education;Not working;Divorsed/single;Female;.82539004;.79718083;.014104605;QALY gain
+Internet solution;27;40.934067;Borderline;below 75%;below 3 years of further education;Not working;;Female;1;.44601339;.2769933;QALY gain
+Control;24;58.79121;Borderline;below 75%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.7648322;.56734568;.09874326;QALY gain
+Internet solution;22;85.43956;Borderline;75%-90%;Above 3 years of further education;Not working;;Female;.5494929;.70249468;-.076500893;QALY loss
+Internet solution;23;46.703297;Borderline;below 75%;Above 3 years of further education;Not working;Divorsed/single;Female;1;-.20797989;.60398996;QALY gain
+Control;42;81.31868;Borderline;75%-90%;below 3 years of further education;;;Female;.98390889;.45485759;.26452565;QALY gain
+Internet solution;28;86.53846;Borderline;75%-90%;;Not working;Cohabiting/Single;Female;.98316425;.87571359;.053725332;QALY gain
+Internet solution;24;99.725273;Borderline;above 90%;below 3 years of further education;Not working;;Female;.95773387;.14240368;.4076651;QALY gain
+Internet solution;27;98.07692;Borderline;above 90%;below 3 years of further education;Not working;Divorsed/single;Female;.85989797;.66637218;.096762896;QALY gain
+Internet solution;25;57.692307;Borderline;below 75%;Above 3 years of further education;Not working;;Female;.77324611;.5424943;.11537591;QALY gain
+Internet solution;43;100;Borderline;above 90%;below 3 years of further education;;;Female;.76907605;.38976571;.18965517;QALY gain
+Internet solution;43;89.56044;Borderline;75%-90%;Above 3 years of further education;Not working;Cohabiting/Single;Female;.3039445;.030592183;.13667616;QALY gain
+Control;35;0;Borderline;below 75%;below 3 years of further education;Not working;Cohabiting/Single;Female;1;.15235244;.42382377;QALY gain
